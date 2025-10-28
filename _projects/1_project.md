@@ -1,16 +1,14 @@
 ---
 layout: page
 title: project 1
-description: with background image
-img: assets/img/12.jpg
+description: Federated learning for visual applications
+img: assets/img/project_FL.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Basically, this project focuses on federated learning for visual applications, specifically for image classification. I received two funds to support this project, namely National college students innovation training project (No. 202310595083) and Innovation project of GUET graduate education (No. 2025YCXS244). Below I will show some pipelines of our published work in this field.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
