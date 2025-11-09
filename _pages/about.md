@@ -31,8 +31,8 @@ Under the supervision of **Dr. Ahmad Chaddad**, I’m diving deep into the fasci
 ---
 
 ### 🚀 Research & Publications  
-I’ve been fortunate to contribute to several impactful projects (e.g., NSFC), resulting in publications in top-tier conferences and journals. Here are some highlights:  
-
+I’ve been fortunate to contribute to several impactful projects (e.g., NSFC), resulting in publications in top-tier conferences and journals. Here are some highlights: 
+- **FedCLIP++** (Accepted in **AAAI 2026**)
 - **FACMIC** (Published in **MICCAI 2024**)  
 - **KD-FMV** (Published in **AAAI 2025**)  
 - **Federated Learning for Healthcare Applications** (Published in *IEEE Internet of Things Journal*)
