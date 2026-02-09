@@ -18,33 +18,32 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-### 👋 Hello, World!  
-I’m **Yihang Wu**, a first-year Master’s student at the **School of Artificial Intelligence, Guilin University of Electronic Technology**, located in the breathtaking city of Guilin, China. 🌄  
+### Brief intro  
+I’m **Yihang Wu**, a second-year Master’s student at the **School of Artificial Intelligence, Guilin University of Electronic Technology**, located in Guilin, China. 
 
 Under the supervision of **Dr. Ahmad Chaddad**, I’m diving deep into the fascinating world of AI, focusing on cutting-edge research areas like:  
-- **Federated Learning** 🤖  
-- **Domain Adaptation** 🔄  
-- **Vision-Language Models** 👁️🗨️  
-- **Medical Image Analysis** 🏥  
-- **Computer Vision** 👀
+- **Federated Learning**  
+- **Domain Adaptation**   
+- **Vision-Language Models**   
+- **Medical Image Analysis**  
+- **Computer Vision** 
 
 ---
 
 ### 🚀 Research & Publications  
-I’ve been fortunate to contribute to several impactful projects (e.g., NSFC), resulting in publications in top-tier conferences and journals. Here are some highlights: 
-- **FedCLIP++** (Accepted in **AAAI 2026**)
+I’ve published / accepted more than 20 papers, including top-tier conferences and journals. Here are some highlights: 
+- **FedMedCLIP** (Accepted in **AAAI 2026**)
 - **FACMIC** (Published in **MICCAI 2024**)  
 - **KD-FMV** (Published in **AAAI 2025**)  
 - **Federated Learning for Healthcare Applications** (Published in *IEEE Internet of Things Journal*)
 - **FAA-CLIP: Federated Adversarial Adaptation of CLIP** (Published in *IEEE Internet of Things Journal*)  
-- **Simulations of Common Unsupervised Domain Adaptation Algorithms for Image Classification** (Published in *IEEE Transactions on Instrumentation and Measurement*)  
 - **Deep Modeling and Optimization of Medical Image Classification** (Published in *IEEE ISBI 2025*)  
 - **Semi-Supervised Medical Image Segmentation via Dual Networks** (Published in *IEEE ISBI 2025*)
-- **Domain Adaptation Techniques for Natural and Medical Image Classification** (Accepted in *Information Sciences*) 
+- **Federated Vision Transformer with Adaptive Focal Loss for Medical Image Classification** (Published in *Knowledge-Basyed Systems*) 
 
 ---
 
-### 🎯 Academic Contributions  
+### Academic Contributions  
 I’m also actively involved in the academic community, serving as a reviewer for prestigious conferences and journals:  
 - Conferences: **IJCNN 2025** (Main Track); **SIGKDD 2025** (ADS Track, February Submission, Excellent Reviewer, top 25%); **MICCAI 2025** (Main Track); **ICIC 2025** (PC Member); **ACM MM 2025** (Main Track, Datasets Track); **SIGKDD 2026** (ADS Track, August Submission); **AAAI 2026** (Main Track, AIA Track, Program committee); **WWW 2026** (Industrial Track, Program committee);
   
@@ -52,14 +51,7 @@ I’m also actively involved in the academic community, serving as a reviewer fo
 
 ---
 
-### 🔍 Seeking PhD Opportunities  
-I’m currently on the lookout for **PhD opportunities** where I can further explore my research interests in **vision-language models**, **federated learning**, **domain adaptation**, and **medical image analysis**. I’m eager to collaborate with leading researchers and contribute to groundbreaking advancements in AI.  
-
-If you’re working on exciting projects in these areas, let’s connect! I’m always open to discussions, collaborations, or just geeking out about AI. 🤓  
-
----
-
-### (●'◡'●) Projects and Awards 
+### Projects and Awards 
 
 **Awards**
 
@@ -78,6 +70,6 @@ I’m passionate about the potential of AI to transform healthcare and beyond. I
 
 📧 **Email**: [wuyihang147258@gmail.com](mailto:wuyihang147258@gmail.com) / [yihang-wu@qq.com](mailto:yihang-wu@qq.com)  
 
-Let’s build the future of AI together! 🚀    
+Let’s build the future of AI together!   
 
 ---
